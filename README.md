@@ -4,7 +4,15 @@
 
 I'm passionate about learning the latest and greatest technologies, whether that's the frontend or backend. I spend most of my time learning and experimenting with anything that looks promising. I always want to learn new things and expand my domain of expertise and knowledge. I am an engineer who loves to solve problems and use the best tools for the job. I actively take part in sports and extracurricular activities.
 
-🔗 LinkedIn: [Junaid](https://www.linkedin.com/in/muhammad-junaid021/)
+🔗 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/muhammad-junaid021/)
+
+## Tools and Technologies
+
+- **Frontend:** JavaScript (ES6, ES7), HTML5, CSS3 (Modules, styled-components), React.js (Hooks, Redux, Router, Context-API), Next.js, Boostrap 5 (react-bootstrap), Tailwind CSS, Material UI
+- **Backend:** Node.js, Express.js, MongoDB, PostgreSQL
+- **Search:** Apache Solr
+- **Database Access:** Prisma
+
 
 ## Tools and Technologies
 
