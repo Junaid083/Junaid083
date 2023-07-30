@@ -39,10 +39,6 @@ I'm passionate about learning the latest and greatest technologies, whether that
 - Familiar with using Apache Solr for search functionality and Prisma for database access.
 - Actively involved in the open-source community with various projects on GitHub.
 
-## GitHub Stats
-
-[![Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaid083&show_icons=true&count_private=true&hide=contribs)](https://github.com/junaid083)
-
 ## Contact Information
 
 📧 Email: iamjunaid021@gmail.com
