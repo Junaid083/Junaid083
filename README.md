@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Junaid 👋
 
-## Full Stack Developer (MERN)
+## Full Stack Developer (MERN/Next.js)
 
 I'm passionate about learning the latest and greatest technologies, whether that's the frontend or backend. I spend most of my time learning and experimenting with anything that looks promising. I always want to learn new things and expand my domain of expertise and knowledge. I am an engineer who loves to solve problems and use the best tools for the job. I actively take part in sports and extracurricular activities.
 
@@ -31,28 +31,10 @@ I'm passionate about learning the latest and greatest technologies, whether that
 - Familiar with using Apache Solr for search functionality and Prisma for database access.
 - Actively involved in the open-source community with various projects on GitHub.
 
-## Certificates and Courses
-
-- Completion of "Advanced React and Redux" course by [Online Course Platform]
-- "MongoDB Essentials" certification by [Certification Provider]
-
-## Projects
-
-1. **Project Name 1**
-   Description: A web application built with React.js and Node.js that allows users to manage tasks and deadlines efficiently.
-   GitHub Repository: [Link](https://github.com/username/project1)
-   Live Demo: [Link](https://project1-demo.com)
-
-2. **Project Name 2**
-   Description: An e-commerce website with a user-friendly interface, powered by Next.js and PostgreSQL for optimal performance.
-   GitHub Repository: [Link](https://github.com/username/project2)
-   Live Demo: [Link](https://project2-demo.com)
-
 ## GitHub Stats
 
-[![Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&count_private=true&hide=contribs)](https://github.com/your_username)
+[![Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaid083&show_icons=true&count_private=true&hide=contribs)](https://github.com/junaid083)
 
 ## Contact Information
 
-📧 Email: youremail@example.com
-🌐 Personal Website: https://www.yourwebsite.com
+📧 Email: iamjunaid021@gmail.com
