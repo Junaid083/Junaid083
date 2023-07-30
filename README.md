@@ -8,28 +8,28 @@ I'm passionate about learning the latest and greatest technologies, whether that
 
 ## Tools and Technologies
 
-- **Frontend:** JavaScript (ES6, ES7), HTML5, CSS3 (Modules, styled-components), React.js (Hooks, Redux, Router, Context-API), Next.js, Boostrap 5 (react-bootstrap), Tailwind CSS, Material UI
-- **Backend:** Node.js, Express.js, MongoDB, PostgreSQL
-- **Search:** Apache Solr
-- **Database Access:** Prisma
-
-
-## Tools and Technologies
-
+### Frontend:
 - JavaScript (ES6, ES7)
 - HTML5
 - CSS3 (Modules, styled-components)
 - React.js (Hooks, Redux, Router, Context-API)
 - Next.js
-- Boostrap 5 - react-bootstrap
+- Boostrap 5 (react-bootstrap)
 - Tailwind CSS
 - Material UI
+
+### Backend:
 - Node.js
-- MongoDB
 - Express.js
-- Apache Solr
-- Prisma
+- MongoDB
 - PostgreSQL
+
+### Search:
+- Apache Solr
+
+### Database Access:
+- Prisma
+
 
 ## Professional Details
 
