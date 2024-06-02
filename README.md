@@ -2,43 +2,47 @@
 
 ## Full Stack Developer (MERN/Next.js)
 
-I'm passionate about learning the latest and greatest technologies, whether that's the frontend or backend. I spend most of my time learning and experimenting with anything that looks promising. I always want to learn new things and expand my domain of expertise and knowledge. I am an engineer who loves to solve problems and use the best tools for the job. I actively take part in sports and extracurricular activities.
+I am a dedicated and enthusiastic Full Stack Developer with a passion for both frontend and backend technologies. My continuous drive for learning keeps me at the forefront of the latest industry trends. I thrive on solving complex problems and am committed to using the best tools available to deliver high-quality solutions. Beyond coding, I am actively engaged in sports and various extracurricular activities, which contribute to my holistic development.
 
-🔗 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/muhammad-junaid021/)
-
-## Tools and Technologies
+## 🛠️ Tools and Technologies
 
 ### Frontend:
-- JavaScript (ES6, ES7)
-- HTML5
-- CSS3 (Modules, styled-components)
-- React.js (Hooks, Redux, Router, Context-API)
-- Next.js
-- Boostrap 5 (react-bootstrap)
-- Tailwind CSS
-- Material UI
+- **JavaScript**: ES6, ES7
+- **HTML5**
+- **CSS3**: Modules, styled-components
+- **React.js**: Hooks, Redux, Router, Context-API
+- **Next.js**
+- **Bootstrap 5**: react-bootstrap
+- **Tailwind CSS**
+- **Material UI**
+- **Ant Design**
+- **Vue.js**
+- **Vuetify.js**
 
 ### Backend:
-- Node.js
-- Express.js
-- MongoDB
-- PostgreSQL
+- **Node.js**
+- **Express.js**
+- **MongoDB**
+- **PostgreSQL**
+- **Django**
+
+### DevOps and Other Tools:
+- **AWS**: EC2, S3, Lambda
+- **Microsoft Azure**
+- **Docker**
+- **Git & GitHub**
+- **SWR**
 
 ### Search:
-- Apache Solr
+- **Apache Solr**
 
 ### Database Access:
-- Prisma
+- **Prisma**
 
+## 📧 Contact Information
 
-## Professional Details
+Email: [iamjunaid021@gmail.com](mailto:iamjunaid021@gmail.com)
 
-- Experienced in building full-stack applications using MERN and Next.js.
-- Proficient in frontend development with React.js and various CSS frameworks.
-- Skilled in backend development with Node.js, Express.js, and database integration (MongoDB and PostgreSQL).
-- Familiar with using Apache Solr for search functionality and Prisma for database access.
-- Actively involved in the open-source community with various projects on GitHub.
+## 🌐 Let's Connect
 
-## Contact Information
-
-📧 Email: iamjunaid021@gmail.com
+Feel free to reach out to me via email. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
